@@ -13,7 +13,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    src: url("/fonts/SFProText-Regular.woff2");
+    src: url("../../fonts/SFProText-Regular.woff2");
     font-weight: 800;
     font-style: normal;
     font-display: auto;
@@ -21,7 +21,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    src: url("/fonts/fonts/SFProDisplay-Regular.woff2.woff2");
+    src: url("../../fonts/fonts/SFProDisplay-Regular.woff2.woff2");
     font-weight: 800;
     font-style: normal;
     font-display: auto;
@@ -29,7 +29,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    src: url("/fonts/SFProDisplay-Medium.woff2");
+    src: url("../../fonts/SFProDisplay-Medium.woff2");
     font-weight: 500;
     font-style: normal;
     font-display: auto;
@@ -38,7 +38,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    src: url("/fonts/SFProDisplay-Semibold.woff2");
+    src: url("../../fonts/SFProDisplay-Semibold.woff2");
     font-weight: 600;
     font-style: normal;
     font-display: auto;
@@ -47,7 +47,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    src: url("/fonts/SFProDisplay-Bold.woff2");
+    src: url("../../fonts/SFProDisplay-Bold.woff2");
     font-weight: 700;
     font-style: normal;
     font-display: auto;

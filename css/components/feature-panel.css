@@ -474,7 +474,7 @@
     margin-bottom: 2rem;
     width: 6.25rem;
     height: 8rem;
-    background-image: url('/media/img/padlock-sprite.png');
+    background-image: url('../../media/img/padlock-sprite.png');
     background-size: 800px 1152px;
     background-repeat: no-repeat;
 
